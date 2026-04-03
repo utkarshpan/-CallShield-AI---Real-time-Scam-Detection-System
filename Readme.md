@@ -1,5 +1,10 @@
-<div align="center">
+"Truecaller tells you WHO is calling.
+CallShield AI tells you WHAT they are trying to do."
 
+Protect yourself and your loved ones from digital scams. 🛡️
+
+<div align="center">
+  
 # 🛡️ CallShield AI
 
 ### *Real-time Scam Detection & Manipulation Pattern Recognition*
@@ -109,8 +114,3 @@ Every day, millions fall victim to scam calls, phishing SMS, and fraudulent What
 | **UI/UX** | Glassmorphism, Animations, Dark Theme |
 
 --
-
-"Truecaller tells you WHO is calling.
-CallShield AI tells you WHAT they are trying to do."
-
-Protect yourself and your loved ones from digital scams. 🛡️
